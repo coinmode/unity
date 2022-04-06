@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 44986a1d4ab865a48a5777efcdbf7929
+timeCreated: 1520523671
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gill Sans MT
+  fontNames:
+  - Gill Sans MT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0ae6d7bab2475b84facb5265bace867b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

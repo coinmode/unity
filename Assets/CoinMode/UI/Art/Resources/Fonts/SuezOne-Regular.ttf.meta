@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4a8e76a55f7f5524e85cc3ea87943ffa
+timeCreated: 1520603301
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Suez One
+  fontNames:
+  - Suez One
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

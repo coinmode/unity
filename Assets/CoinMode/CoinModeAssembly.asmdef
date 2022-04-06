@@ -1,0 +1,25 @@
+{
+    "name": "CoinModeAssembly",
+    "rootNamespace": "",
+    "references": [
+        "Unity.Services.Analytics",
+        "NativeShare.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [
+        ""
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.services.analytics",
+            "expression": "",
+            "define": "UNITY_ANALYTICS"
+        }
+    ],
+    "noEngineReferences": false
+}

@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9851d60bddf166d4baae36a4d9d7f46a, type: 3}
+  m_Name: CoinModeMenuStyle
+  m_EditorClassIdentifier: 
+  _currentStyle:
+    backgroundSprite: {fileID: 21300000, guid: 56177336fb84b904297788dbef704c49, type: 3}
+    backgroundColor: {r: 0.101960786, g: 0.101960786, b: 0.101960786, a: 1}
+    accentColor: {r: 0.99215686, g: 0.7176471, b: 0.078431375, a: 1}
+    backgroundPatternSprite: {fileID: 0}
+    messageTemplate:
+      backgroundSprite: {fileID: 21300000, guid: 4a12d91d8721d844e9c12b81c759383a,
+        type: 3}
+      backgroundColor: {r: 0.101960786, g: 0.101960786, b: 0.101960786, a: 1}
+      successColor: {r: 0.176, g: 0.718, b: 0.329, a: 1}
+      failureColor: {r: 0.718, g: 0.176, b: 0.176, a: 1}
+    textColor: {r: 1, g: 1, b: 1, a: 1}
+    fontFamily:
+      thin: {fileID: 12800000, guid: 3edb1a4bb0ec64b4e9422ddfd359ad16, type: 3}
+      light: {fileID: 12800000, guid: 38f4f80c97bd25d4198e9754c79f45e5, type: 3}
+      regular: {fileID: 12800000, guid: 45a5512da2833a44e81dc13380986298, type: 3}
+      medium: {fileID: 12800000, guid: 1936e1dff85893f49894a4dbd58303f8, type: 3}
+      bold: {fileID: 12800000, guid: 303a666d5d5497f4b9a0fb192de50678, type: 3}
+      black: {fileID: 12800000, guid: 061329777397f2041bedacc6d660a396, type: 3}
+    titleLoginButton:
+      sprite: {fileID: 21300000, guid: 47cba4bc63690bf4c92a79cd494d3ba5, type: 3}
+      colors:
+        m_NormalColor: {r: 0, g: 0, b: 0, a: 1}
+        m_HighlightedColor: {r: 0.21568628, g: 0.21568628, b: 0.21568628, a: 1}
+        m_PressedColor: {r: 0.25882354, g: 0.25882354, b: 0.25882354, a: 1}
+        m_SelectedColor: {r: 0.21568628, g: 0.21568628, b: 0.21568628, a: 1}
+        m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+        m_ColorMultiplier: 1
+        m_FadeDuration: 0.1
+      font: {fileID: 12800000, guid: 4a8e76a55f7f5524e85cc3ea87943ffa, type: 3}
+      fontStyle: 0
+      textColors:
+        normalColor: {r: 1, g: 1, b: 1, a: 1}
+        disabledColor: {r: 1, g: 1, b: 1, a: 0.5019608}
+      loadingColorMode: 1
+    defaultButton:
+      sprite: {fileID: 21300000, guid: 47cba4bc63690bf4c92a79cd494d3ba5, type: 3}
+      colors:
+        m_NormalColor: {r: 0.99215686, g: 0.7176471, b: 0.078431375, a: 1}
+        m_HighlightedColor: {r: 0.2509804, g: 0.6392157, b: 1, a: 1}
+        m_PressedColor: {r: 0.2627451, g: 0.53333336, b: 0.6862745, a: 1}
+        m_SelectedColor: {r: 0.2509804, g: 0.6392157, b: 1, a: 1}
+        m_DisabledColor: {r: 0.20784314, g: 0.20784314, b: 0.20784314, a: 1}
+        m_ColorMultiplier: 1
+        m_FadeDuration: 0.1
+      font: {fileID: 12800000, guid: 45a5512da2833a44e81dc13380986298, type: 3}
+      fontStyle: 0
+      textColors:
+        normalColor: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+        disabledColor: {r: 1, g: 1, b: 1, a: 0.5019608}
+      loadingColorMode: 1
+    customButtons: []
+    inputField:
+      frameSprite: {fileID: 21300000, guid: a6c0ca0264e20b843a2607cefa493989, type: 3}
+      backgroundSprite: {fileID: 21300000, guid: 5cf1fc19574a4474d9d1aab790b39135,
+        type: 3}
+      backgroundColor: {r: 0, g: 0, b: 0, a: 0.19607843}
+      colors:
+        m_NormalColor: {r: 1, g: 1, b: 1, a: 0.5019608}
+        m_HighlightedColor: {r: 1, g: 1, b: 1, a: 1}
+        m_PressedColor: {r: 0.99215686, g: 0.7176471, b: 0.078431375, a: 1}
+        m_SelectedColor: {r: 0.99215686, g: 0.7176471, b: 0.078431375, a: 1}
+        m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+        m_ColorMultiplier: 1
+        m_FadeDuration: 0.1
+      font: {fileID: 12800000, guid: 45a5512da2833a44e81dc13380986298, type: 3}
+      fontStyle: 0
+      textColor: {r: 1, g: 1, b: 1, a: 1}
+      placeholderColor: {r: 1, g: 1, b: 1, a: 0.5019608}
